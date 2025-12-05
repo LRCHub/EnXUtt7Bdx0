@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海を泳ぐ月 JELEE ver.",
+  "base_artist": "JELEE",
+  "createdAt": "2025-12-05T13:40:03.239387Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海を泳ぐ月 JELEE ver.",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_海を泳ぐ月_JELEE_ver._JELEE.txt"
+    }
+  ]
+}
